@@ -10,7 +10,7 @@ public class Circle {
 	}
 	
 	public void drawTest(int x){
-		System.out.println("--- Drawing Circle Test ---")...;		
+		System.out.println("--- Drawing Circle Test ---");		
 	}
 
 }
